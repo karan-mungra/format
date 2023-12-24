@@ -1,0 +1,7 @@
+{
+    "Stdout": "Hello, World!",
+    "Stdin": "World",
+    "Type": "message",
+    "Error": 0,
+    "Result": 0
+}
